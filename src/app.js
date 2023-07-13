@@ -32,7 +32,7 @@ app.get('/products/:pid', async (req, res) => {
   }
 });
 
-const port = 3000;
+const port = 8080;
 app.listen(port, () => {
   console.log(`Servidor Express escuchando en el puerto ${port}`);
 });

@@ -20,11 +20,29 @@
     {
       "id": 3,
       "title": "Pantalón",
-      "description": "Pantalón de mezclilla",
+      "description": "Pantalón azul",
       "price": 49.99,
       "thumbnail": "imagen3.jpg",
       "code": "PAN003",
       "stock": 15
+    },
+    {
+      "id": 4,
+      "title": "remera",
+      "description": "remera azul",
+      "price": 49.99,
+      "thumbnail": "imagen5.jpg",
+      "code": "REM006",
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "title": "Pollera",
+      "description": "Pollera rosa",
+      "price": 33.99,
+      "thumbnail": "imagen7.jpg",
+      "code": "POLL003",
+      "stock": 5
     }
   ]
   
